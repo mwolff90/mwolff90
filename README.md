@@ -1,8 +1,10 @@
 ### Hi there 👋
 
 I'm Markus from Germany and this is my GitHub-Profile.
+- 🌱 I’m currently learning CSS & Python
 
 [![mwolff90's GitHub stats](https://github-readme-stats.vercel.app/api?username=mwolff90)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **mwolff90/mwolff90** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
